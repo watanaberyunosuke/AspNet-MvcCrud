@@ -1,0 +1,45 @@
+
+Q
+!MvcCrud/Views/Users/Create.cshtml,3/9/3938cae345ee8a2f17c2216be95525b7465aaa65
+F
+MvcCrud/Models/User.cs,7/1/71d09e95584dba0e6c81ec6689dbb24afce798be
+O
+MvcCrud/Views/Users/Edit.cshtml,1/6/16446e201ce36b7742a1101a39a77cc46a2e827b
+Q
+!MvcCrud/Views/Users/Delete.cshtml,a/d/ad145c1f23128e26521d3f13e75788a3b848d7b1
+P
+ MvcCrud/Views/Users/Index.cshtml,6/c/6c91e2b7f026fdc357698344a8b7e72a9d92263b
+V
+&MvcCrud/Controllers/UsersController.cs,2/5/25dd84a9418121013410fabbd91c8fb59d52c990
+R
+"MvcCrud/Views/Users/Details.cshtml,f/7/f73374fe4112f246b31e95ee9ee9e57370132a2c
+P
+ MvcCrud/Views/Units/Index.cshtml,c/3/c3d1993d8c3902a90723e5b426ef1acda7e9582d
+Q
+!MvcCrud/Views/Units/Create.cshtml,3/0/30eb8369f6253ca336e73a6916642a30c3115084
+R
+"MvcCrud/Views/Units/Details.cshtml,a/3/a3d9a95338b56b3c4ab259654264b15cf118a6a4
+O
+MvcCrud/Views/Units/Edit.cshtml,0/3/037f3a059d272dd7caf909d2b8c42aee6e52e03c
+V
+&MvcCrud/Controllers/UnitsController.cs,8/3/83dface0354a8e9e2f037d36f8d5452acbef9b2d
+Q
+!MvcCrud/Views/Units/Delete.cshtml,2/3/237687c4940e9ed369b5681f3972e0cee0314364
+F
+MvcCrud/Models/Unit.cs,8/e/8e3107f6767fa1a34ac2f36b633c580d5401b06c
+Q
+!MvcCrud/App_Start/FilterConfig.cs,3/c/3ce56366100031c97836d9d835344d695567490e
+R
+"MvcCrud/Properties/AssemblyInfo.cs,7/0/707118777a968598a3cb87cf0ebb21358b8b6a33
+U
+%MvcCrud/Controllers/HomeController.cs,5/e/5e02d23a4b84cd0b9cb5055326bd33e1a2c15e32
+P
+ MvcCrud/App_Start/RouteConfig.cs,b/9/b98b8a3ce31abb8b6d953aaa8214797daa3f9e99
+H
+MvcCrud/Views/Web.config,e/5/e547a43e08190a74afb12c663354c5133c575106
+G
+MvcCrud/packages.config,1/0/10648ac24588c1ce5bb632612932ec62350dc590
+B
+MvcCrud/Web.config,4/a/4a2373f71438c7180db6d9492402a9df773ed5f2
+Q
+!MvcCrud/App_Start/BundleConfig.cs,c/0/c07d22e3ed8af8bdd42785c8017452a15d81384a
